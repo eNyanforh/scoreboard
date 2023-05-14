@@ -6,7 +6,7 @@ body{
     display:flex;
     margin:auto;
     max-width: 500px;
-    height:200px;
+    height:300px;
     border-radius:10px;
     justify-content: space-around;
     text-align: center;
@@ -16,4 +16,9 @@ body{
 
 #home-score, #away-score{
     color:red;
+    font-size:100pt
+}
+
+button{
+    font-size:20pt
 }
