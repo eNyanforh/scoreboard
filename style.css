@@ -1,0 +1,15 @@
+body{
+    font-family:sans-serif
+}
+
+.container{
+    display:flex;
+    margin:auto;
+    max-width: 500px;
+    height:200px;
+    border-radius:10px;
+    justify-content: space-around;
+    text-align: center;
+    background-color:black;
+    color:white
+}
